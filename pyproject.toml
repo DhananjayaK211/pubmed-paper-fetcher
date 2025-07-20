@@ -3,7 +3,7 @@ name = "pubmed-paper-fetcher"
 version = "0.1.0"
 description = "Fetch PubMed papers with biotech affiliations"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = " K Dhananjaya",email = "dhanudhanu4100@gmail.com"}
 ]
 readme = "README.md"
 requires-python = "^3.10"
